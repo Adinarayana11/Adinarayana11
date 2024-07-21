@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-💻 An experienced Software Engineer<br>🎓Computer Science Graduate from UTA(Dec'23)<br>💼 Current Intern at Gramener,Ex-Cognizant<br>🔭 I’m currently working on Full-stack and AI projects<br>🤝 Open to collaboration!<br>
+🎓Computer Science Graduate from UTA(Dec'23)<br>💼 Current Intern at Gramener,Ex-Cognizant<br>🔭 I’m currently working on Full-stack and AI projects<br>🤝 Open to collaboration!<br>
 
 <br />
 
@@ -39,5 +39,5 @@
 
 <!---
 Adinarayana11/Adinarayana11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes. 💻 An experienced Software Engineer<br>
 --->
