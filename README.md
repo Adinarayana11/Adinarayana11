@@ -2,7 +2,8 @@
 
 
 # 💫 About Me:
-🎓Computer Science Graduate from UTA(Dec'23)<br>💼 Current Intern at Gramener,Ex-Cognizant<br>🔭 I’m currently working on Full-stack and AI projects<br>🤝 Open to collaboration!<br>
+🎓Computer Science Graduate from UTA(Dec'23)<br>💼 Full Stack Developer at Gramener,Ex-Cognizant,Ex-IVY<br>
+🔭 I’m currently working on Full-stack and AI projects<br>🤝 Open to collaboration!<br>
 
 <br />
 
